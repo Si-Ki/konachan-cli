@@ -1,4 +1,4 @@
-# konachan-cli (STILL IN DEVELOPMENT!!)
+# konachan-cli
 
 ---
 
